@@ -1,5 +1,5 @@
 ## 目录
-* CPU
+* 二进制
   * 原码  
   [维基百科（中文）](https://zh.wikipedia.org/wiki/原码)  
   [百度百科](https://baike.baidu.com/item/原码)

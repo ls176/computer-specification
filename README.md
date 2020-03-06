@@ -1,5 +1,8 @@
 ## 目录
-* 二进制
+* 二进制  
+[维基百科（中文）](https://zh.wikipedia.org/wiki/二进制)  
+[维基百科（英文）](https://en.wikipedia.org/wiki/Binary_number)  
+[百度百科](https://baike.baidu.com/item/二进制)  
   * 原码  
   [维基百科（中文）](https://zh.wikipedia.org/wiki/原码)  
   [百度百科](https://baike.baidu.com/item/原码)  

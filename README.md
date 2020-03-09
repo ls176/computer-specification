@@ -5,7 +5,11 @@
   * 逻辑门  
   [维基百科（中文）](https://zh.wikipedia.org/wiki/逻辑门)  
   [维基百科（英文）](https://en.wikipedia.org/wiki/Logic_gate)  
-  [百度百科](https://baike.baidu.com/item/逻辑门) 
+  [百度百科](https://baike.baidu.com/item/逻辑门)  
+  * 加法器  
+  [维基百科（中文）](https://zh.wikipedia.org/wiki/加法器)  
+  [维基百科（英文）](https://en.wikipedia.org/wiki/Adder_(electronics))  
+  [百度百科](https://baike.baidu.com/item/加法器) 
 * 二进制  
 [维基百科（中文）](https://zh.wikipedia.org/wiki/二进制)  
 [维基百科（英文）](https://en.wikipedia.org/wiki/Binary_number)  
